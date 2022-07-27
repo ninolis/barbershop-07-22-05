@@ -102,3 +102,7 @@ dist
 
 # TernJS port file
 .tern-port
+css/barber5-study.css
+.prettierrc.json
+css/time-copy.css
+study/study-css/more-than-one-class.css
